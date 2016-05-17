@@ -6,7 +6,7 @@ Basic Servlet web app which will let you choose Books
 Использован Бутстрап
 
  <!-- Bootstrap core CSS -->
- <link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet">
+ <!--link href="http://getbootstrap.com/dist/css/bootstrap.min.css" rel="stylesheet"-->
 
  <!-- Custom styles for this template -->
- <link href="css/cover.css" rel="stylesheet">
+ <!--link href="css/cover.css" rel="stylesheet"-->
