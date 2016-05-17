@@ -10,3 +10,4 @@ Basic Servlet web app which will let you choose Books
 
  <!-- Custom styles for this template -->
  <!--link href="css/cover.css" rel="stylesheet"-->
+ Выбираем жанр книги и узнаём какой сегодня день и время :)
